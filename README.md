@@ -1,7 +1,7 @@
 # python-atomic-write
 Decorator for python atomic writing with unit tests and demo on a parquet file
 
-Task：
+Tasks：
 1.	Implement a decorator for atomic writing.
 2.	Implement unit tests for your code.
 3.	Implement a demo of your decorator on a parquet file.
